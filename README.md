@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+## HTML pages Welcome :D
 
-You can use the [editor on GitHub](https://github.com/Ahmadboxx/Structure-web-pages-with-HTML/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Chapter 8 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Extra markup** 
 
-### Markdown
+This chapter is speaking about how to embed  a page within a page , how to make information about the web and adding characters. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+It can be clearly shown that each version of Html has it's own definition (doctype) 
 
-```markdown
-Syntax highlighted code block
+## Chapter 10  
 
-# Header 1
-## Header 2
-### Header 3
+*Introducing Css*  
 
-- Bulleted
-- List
+Css is more likely it’s function to be the preview of the page, what do you want the page to look likes,you can specify the background, the size of the text, the type, and the color. 
 
-1. Numbered
-2. List
+Css works by associating rules with Html elements which govern how the cover page will display and it contain tow parts  
 
-**Bold** and _Italic_ and `Code` text
+Selector (P)  and declaration {font-family : Arial;} 
 
-[Link](url) and ![Image](src)
-```
+Declaration made up of two parts  
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Propert:color and value :Green 
 
-### Jekyll Themes
+## Chapter 11  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ahmadboxx/Structure-web-pages-with-HTML/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Color** 
 
-### Support or Contact
+You can specify anycolor in css in one of three ways : 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1-RGB values example :rgb (100.100.90) 
+
+2-Hex code  example : #ee3e80 
+
+3-color name : Darkcyan 
+
+Background color 
+
+You can specify the Background color in the same three ways you specify foreground color. 
+
+By default most browser windows have a white background. 
+
+Type of contrast  
+
+Low : test is hard to read  
+
+High:test is easier to read  
+
+Medium:is a little bit improves readability. 
